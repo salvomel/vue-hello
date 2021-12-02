@@ -1,3 +1,9 @@
 h1 {
     text-align: center;
 }
+
+.img-set {
+    height: 400px;
+    display: block;
+    margin: auto;
+}
